@@ -1,0 +1,7 @@
+C:\Users\Stojmilova\Desktop\sedc7-06-csharpadvanced\g5\Class11\ReflectionBase\bin\Debug\ReflectionBase.exe.config
+C:\Users\Stojmilova\Desktop\sedc7-06-csharpadvanced\g5\Class11\ReflectionBase\bin\Debug\ReflectionBase.exe
+C:\Users\Stojmilova\Desktop\sedc7-06-csharpadvanced\g5\Class11\ReflectionBase\bin\Debug\ReflectionBase.pdb
+C:\Users\Stojmilova\Desktop\sedc7-06-csharpadvanced\g5\Class11\ReflectionBase\obj\Debug\ReflectionBase.csprojAssemblyReference.cache
+C:\Users\Stojmilova\Desktop\sedc7-06-csharpadvanced\g5\Class11\ReflectionBase\obj\Debug\ReflectionBase.csproj.CoreCompileInputs.cache
+C:\Users\Stojmilova\Desktop\sedc7-06-csharpadvanced\g5\Class11\ReflectionBase\obj\Debug\ReflectionBase.exe
+C:\Users\Stojmilova\Desktop\sedc7-06-csharpadvanced\g5\Class11\ReflectionBase\obj\Debug\ReflectionBase.pdb
